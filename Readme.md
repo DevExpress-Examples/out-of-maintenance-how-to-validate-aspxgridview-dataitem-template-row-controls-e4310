@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to validate ASPxGridView DataItem template row controls
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4310/)**
+<!-- run online end -->
 
 
 <p>When an end-user clicks the custom command “Update” button in the ASPxGridView row, controls in this row are validate.</p>
